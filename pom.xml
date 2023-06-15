@@ -6,7 +6,7 @@
 
     <groupId>online.codevault.com.amazon.aws</groupId>
     <artifactId>arn-parser</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1-SNAPSHOT</version>
 
     <dependencies>
 
